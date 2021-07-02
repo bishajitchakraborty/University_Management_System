@@ -1,0 +1,10 @@
+<component name="ArtifactManager">
+  <artifact type="javafx" name="UMS_2">
+    <output-path>$PROJECT_DIR$/out/artifacts/UMS_2</output-path>
+    <root id="root">
+      <element id="archive" name="UMS_2.jar">
+        <element id="module-output" name="UMS_2" />
+      </element>
+    </root>
+  </artifact>
+</component>
